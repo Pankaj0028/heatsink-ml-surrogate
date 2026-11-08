@@ -117,7 +117,7 @@ Notebook: `HeatSink_Project_Notebook.ipynb`
 
 ## 8. Links
 
-- GitHub / portfolio: **\<add your link\>**
+- GitHub: https://github.com/Pankaj0028/heatsink-ml-surrogate
 - Local project path: `C:\Users\DELL\Downloads\heatsink_ml_project\heatsink_ml_project`
 
 ---

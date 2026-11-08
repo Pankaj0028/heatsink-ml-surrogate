@@ -59,7 +59,7 @@ Suggested empty outline only:
 
 ## Files to attach / share
 
-1. This project folder (or GitHub link once Git is set up)  
+1. GitHub: https://github.com/Pankaj0028/heatsink-ml-surrogate  
 2. `Submission_Report.docx` (Task 1 technical summary)  
 3. `Task3_AI_Use_Cases.md` (or paste into the same Word doc)  
 4. Your Task 2 + Task 4 answers  

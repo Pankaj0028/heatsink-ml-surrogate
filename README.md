@@ -1,5 +1,7 @@
 # Heat-Sink Surrogate Model Project (Expert Thermal / XThermal assessment, Task 1)
 
+**Repo:** https://github.com/Pankaj0028/heatsink-ml-surrogate
+
 ## Software
 | Need | Use |
 |---|---|
