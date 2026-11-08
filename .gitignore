@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.env.*
+*.egg-info/
+.venv/
+venv/
+assessment_extracted.txt
+* - Copy*
+* - Copy.*
+.DS_Store
+Thumbs.db
